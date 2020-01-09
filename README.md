@@ -9,7 +9,6 @@ Excelbladet returnerar alla gatuadresser som innehåller just den söktermen.
 
 ## Ladda ner Excel-dokument
 Där finns det två olika excel-dokument. Ett med och ett utan s.k. macros.<br/>
-
 Osäker på vad macros är? Ladda då ned det utan macros!
 
 [Exceldokument (utan macro)](https://github.com/andrewisen/excel-dynamisk-sok/raw/master/excel/dynamisk-lista.xlsx?raw=true "Exceldokument")
@@ -17,7 +16,7 @@ Osäker på vad macros är? Ladda då ned det utan macros!
 [Exceldokument (med macro)](https://github.com/andrewisen/excel-dynamisk-sok/raw/master/excel/dynamisk-lista-macro.xlsm?raw=true "Exceldokument")
 
 ## Ladda alla filer
-Ladda ner alla tillhörande filer genom att trycka på `Clone or download`<br/>
+Ladda ner alla tillhörande filer genom att trycka på `Clone or download` (finns en knapp ovan)<br/>
 
 Välj sedan `Download ZIP`
 
