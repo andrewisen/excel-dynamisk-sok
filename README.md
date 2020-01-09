@@ -7,21 +7,23 @@ I dokumentent finns en lista på alla gatunamn i Stockholm.
 I exemplet ovan har användaren sökt på "Drottning".<br/>
 Excelbladet returnerar alla gatuadresser som innehåller just den söktermen.
 
-## Ladda ner
-Ladda ner detta excel-blad genom att trycka på<br/>
+## Ladda ner Excel-dokument
+Där finns det två olika excel-dokument. Ett med och ett utan s.k. macros.<br/><br/>
 
-`Clone or download`<br/><
+Osäker på vad macros är? Ladda då ned det utan macros!
 
-Välj sedan<br/><br/>
+[Exceldokument (utan macro)](https://github.com/andrewisen/excel-dynamisk-sok/raw/master/excel/dynamisk-lista.xlsx?raw=true "Exceldokument")
 
-`Download ZIP`
+[Exceldokument (med macro)](https://github.com/andrewisen/excel-dynamisk-sok/raw/master/excel/dynamisk-lista-macro.xlsm?raw=true "Exceldokument")
+
+## Ladda alla filer
+Ladda ner alla tillhörande filer genom att trycka på `Clone or download`<br/>
+
+Välj sedan `Download ZIP`
 
 ![Skärmdump](/screenshot/screenshot-02.JPG?raw=true "Skärmdump")
 
-Packa upp ZIP-filen och navigera till mappen `excel`<br/>.
-Där finns det två olika excel-dokument. Ett med och ett utan s.k. macros.<br/>.<br/>
-
-Mer info finns när du öppnar respektive dokument.
+Packa sedan upp ZIP-filen.
 
 ## Tänk på
 Detta dokument är enbart en mall.<br/>
