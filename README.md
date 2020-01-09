@@ -8,7 +8,7 @@ I exemplet ovan har användaren sökt på "Drottning".<br/>
 Excelbladet returnerar alla gatuadresser som innehåller just den söktermen.
 
 ## Ladda ner Excel-dokument
-Där finns det två olika excel-dokument. Ett med och ett utan s.k. macros.<br/><br/>
+Där finns det två olika excel-dokument. Ett med och ett utan s.k. macros.<br/>
 
 Osäker på vad macros är? Ladda då ned det utan macros!
 
