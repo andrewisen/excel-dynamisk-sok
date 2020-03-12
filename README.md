@@ -1,11 +1,11 @@
 # Excel Dynamisk Sök
-Detta Excel-dokument utför dynamiska sökningar.<br/>
+Detta Excel-dokument utför s.k. dynamiska sökningar.<br/>
 I dokumentent finns en lista på alla gatunamn i Stockholm.
 
 ![Skärmdump](/screenshot/screenshot-01.JPG?raw=true "Skärmdump")
 
 I exemplet ovan har användaren sökt på "Drottning".<br/>
-Excelbladet returnerar alla gatuadresser som innehåller just den söktermen.
+Excelbladet returnerar då alla gatuadresser som innehåller just den söktermen.
 
 ## Ladda ner Excel-dokument
 Där finns det två olika excel-dokument. Ett med och ett utan s.k. macros.<br/>
